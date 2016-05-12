@@ -1,0 +1,85 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.0.4)
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection (= 2.4.1)
+    - AFNetworking/NSURLSession (= 2.4.1)
+    - AFNetworking/Reachability (= 2.4.1)
+    - AFNetworking/Security (= 2.4.1)
+    - AFNetworking/Serialization (= 2.4.1)
+    - AFNetworking/UIKit (= 2.4.1)
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AMap3DMap (3.3.2)
+  - AMapLocation (1.2.2)
+  - BlurView (1.1)
+  - BmobSDK (1.6.7)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - LBXScan (1.1.1):
+    - ZXingObjC (~> 3.0)
+  - MJExtension (3.0.7)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - pop (1.0.8)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - Toast (2.4)
+  - XHRealTimeBlur (1.7)
+  - ZXingObjC (3.1.0):
+    - ZXingObjC/All (= 3.1.0)
+  - ZXingObjC/All (3.1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 2.0.4)
+  - AFNetworking (~> 2.4.1)
+  - AMap3DMap
+  - AMapLocation
+  - BlurView (~> 1.1)
+  - BmobSDK
+  - FMDB (~> 2.4)
+  - LBXScan
+  - MJExtension
+  - NJKWebViewProgress
+  - pop
+  - SDWebImage (~> 3.7.3)
+  - Toast (~> 2.4)
+  - XHRealTimeBlur
+  - ZXingObjC (~> 3.0)
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 860466cb4a66854e6acb590071ecee404b48f49d
+  AFNetworking: 41d45d2c14219af0fa5addf3cfd433a002c13c9f
+  AMap3DMap: 6315b7489cb60b1c47bb51169b409c20efa5f527
+  AMapLocation: 5412fbf0385716d4d481e39a95929057cddc093f
+  BlurView: 04ec9fd1216fad0c9f9a495ea51b4aaadae26139
+  BmobSDK: ae6abd7f08a8150668687c880ac9ec93f1bf25b6
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  LBXScan: dfb4d8ae8e4cff2aa0c9e1771e43954dce1469a9
+  MJExtension: 290cc966f0f849b12b6391a38e296e0004ae8e5e
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  Toast: 0773b8fc0e97352ca6054517bec7ebdd4110029d
+  XHRealTimeBlur: 661fadd5691ba2d349758e8fd5fbdb499ac55f8c
+  ZXingObjC: bf15b3814f7a105b6d99f47da2333c93a063650a
+
+COCOAPODS: 0.39.0

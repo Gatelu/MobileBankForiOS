@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FAD59D7EAB7FB9BC548C7DAAC6FC651F129A082",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B2B4FA87C9051C943210D6E2DF25EE1BE3B1450D" : 0,
+    "6FAD59D7EAB7FB9BC548C7DAAC6FC651F129A082" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "43AB007B-C37F-4657-A58A-15FC2482DFD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B2B4FA87C9051C943210D6E2DF25EE1BE3B1450D" : "HiShiFu-User-Apple\/",
+    "6FAD59D7EAB7FB9BC548C7DAAC6FC651F129A082" : "CommunityServices\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "手机银行",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "手机银行.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:LuChangxiang\/CommunityServices.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FAD59D7EAB7FB9BC548C7DAAC6FC651F129A082"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:phyllis\/HiShiFu-User-Apple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B2B4FA87C9051C943210D6E2DF25EE1BE3B1450D"
+    }
+  ]
+}
